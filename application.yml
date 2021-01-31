@@ -5,4 +5,4 @@ eureka:
     service-url:
       defaultZone: http://classnine_eureka_server:8761/eureka/
   instance:
-    hostname: localhost
+    hostname: classnine_eureka_server
